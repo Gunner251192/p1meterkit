@@ -8,9 +8,9 @@ substitutions:
 esphome:
   name: ${device_name}
   friendly_name: ${friendly_name}
-  project:
-    name: "smarthomeshop.p1meterkit"
-    version: ${p1meterkit_software_version}
+  #project:
+  #  name: "smarthomeshop.p1meterkit"
+  #  version: ${p1meterkit_software_version}
 
 esp8266:
   board: d1_mini
