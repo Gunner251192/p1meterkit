@@ -26,8 +26,8 @@ api:
 ota:
   - platform: esphome
 
-dashboard_import:
-  package_import_url: github://smarthomeshop/p1meterkit/p1meterkit.yaml@main
+#dashboard_import:
+  #package_import_url: github://smarthomeshop/p1meterkit/p1meterkit.yaml@main
 
 wifi:
   # remove leading '#' and fill in your wifi details
